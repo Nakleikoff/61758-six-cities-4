@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/react/4/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Никого`.
 
 ---
 
